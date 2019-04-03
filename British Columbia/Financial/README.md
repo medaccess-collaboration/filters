@@ -1,2 +1,0 @@
-# filters
-Medaccess filters 
